@@ -1,3 +1,6 @@
+This is a fork of the original LoveIt project to fix error with newer Hugo(>=v0.75)
+This wordaround is proposed by [nekr0z](https://github.com/nekr0z) in issue [518](https://github.com/dillonzq/LoveIt/issues/518)
+
 # LoveIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
